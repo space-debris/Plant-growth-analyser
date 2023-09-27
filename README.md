@@ -2,11 +2,11 @@
 ## About Project
 Plant growth analyser - is a program which predicts the growth of plant against the number of weeks using Polynomial Linear Regression machine learning model.
 
-##Dependencies
+## Dependencies
 Python 3.11.4, Google colab/ Jupyter Notebook
 
-##Libraries used
+## Libraries used
 Numpy, Pandas, Scikit-learn
 
-##Authors
+## Authors
 @space-debris
